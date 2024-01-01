@@ -1,0 +1,9 @@
+NVIM v0.9.5
+Build type: RelWithDebInfo
+LuaJIT 2.1.1692716794
+Compilation: /usr/bin/cc -O2 -g -Og -g -Wall -Wextra -pedantic -Wno-unused-parameter -Wstrict-prototypes -std=gnu99 -Wshadow -Wconversion -Wvla -Wdouble-promotion -Wmissing-noreturn -Wmissing-format-attribute -Wmissing-prototypes -fno-common -Wno-unused-result -Wimplicit-fallthrough -fdiagnostics-color=always -fstack-protector-strong -DUNIT_TESTING -DINCLUDE_GENERATED_DECLARATIONS -D_GNU_SOURCE -I/mnt/c/Users/behna/rust/neovim/.deps/usr/include/luajit-2.1 -I/usr/include -I/mnt/c/Users/behna/rust/neovim/.deps/usr/include -I/mnt/c/Users/behna/rust/neovim/build/src/nvim/auto -I/mnt/c/Users/behna/rust/neovim/build/include -I/mnt/c/Users/behna/rust/neovim/build/cmake.config -I/mnt/c/Users/behna/rust/neovim/src -I/usr/include -I/mnt/c/Users/behna/rust/neovim/.deps/usr/include -I/mnt/c/Users/behna/rust/neovim/.deps/usr/include -I/mnt/c/Users/behna/rust/neovim/.deps/usr/include -I/mnt/c/Users/behna/rust/neovim/.deps/usr/include -I/mnt/c/Users/behna/rust/neovim/.deps/usr/include -I/mnt/c/Users/behna/rust/neovim/.deps/usr/include
+
+   system vimrc file: "$VIM/sysinit.vim"
+  fall-back for $VIM: "/usr/local/share/nvim"
+
+Run :checkhealth for more info
