@@ -1,6 +1,3 @@
--- require('rose-pine').setup({
---     disable_background = true
--- })
 local dracula = require("dracula")
 dracula.setup({
   -- customize dracula color palette
